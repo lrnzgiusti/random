@@ -1,3 +1,4 @@
+import agenticlib
 from agentic.runtime import exec, pulse
 from agentic.core.vm import inject, fork
 from agentic.registry import hook, register
